@@ -31,8 +31,13 @@ button.btn {
 
 button.btn {
     margin: 2vw 0vw;
-    width: 20vw;
-    align-self: center;
+    width: 10vw;
+    font-size: 1vw;
+}
+
+button.btn1 {
+    width: 15vw;
+    align-self: left;
 }
 
 .intro-section {
@@ -66,16 +71,6 @@ h4 {
 
     font-size: 21px;
     color: #111464;
-}
-
-button.learn-more-btn {
-
-    font-size: 1.5vw;
-    width: 20vw;
-
-    margin: 2vw 0vw;
-    padding: 1vw 2vw;
-    border-radius: 45px;
 }
 
 button {
@@ -124,9 +119,9 @@ img.backcover {
 
     button.btn {
         margin: 4vw 0vw;
-        width: 25vw;
-        font-size: 2vw;
-        padding: 1.7vw 2.6vw;
+        width: 20vw;
+        font-size: 1.7vw;
+        padding: 1.5vw 2.2vw;
         align-self: center;
     }
 
@@ -136,3 +131,4 @@ img.backcover {
         visibility: hidden;
 
     }
+}
