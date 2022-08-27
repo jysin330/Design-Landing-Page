@@ -93,12 +93,10 @@ button {
 }
 
 
-img.vector-pic {}
-
 img.backcover {
     position: relative;
     z-index: -1;
-    top: -55vw;
+    top: -60vw;
 
 
 }
