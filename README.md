@@ -1,23 +1,31 @@
-# My Name
+## My Name
 
-## JYOTI SINGH
+### JYOTI SINGH
 
-# PROJECT NAME
+## PROJECT NAME
 
-## Design Landing Page
+### Design Landing Page
 
-# About
+## About
 
-- ## Used HTML And CSS.
-- ## Style by flex-box .
-- ## Responsive.
+- ### Used HTML And CSS.
+- ### Style by flex-box .
+- ### Responsive.
 
-# WHAT I LEARN FROM THIS PROJECT?
+## WHAT I LEARN FROM THIS PROJECT?
 
-- ## Learn about z-index.
-- ## Practicing on Media Query.
-- ## Learn to use break-point.
+- ### Learn about z-index.
+- ### Practicing on Media Query.
+- ### Learn to use break-point.
 
-# TIME TAKEN TO COMPLETE
+## TIME TAKEN TO COMPLETE
 
-- ## 7-8 hour
+- ### 7-8 hour
+
+## PHOTOS
+
+![Design Landing Page](./myScreenshot.png)
+
+### WEBSITE LINK
+
+[Visit Link](https://design-landing-page-01.netlify.app/)
